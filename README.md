@@ -1,10 +1,9 @@
-# Cliffai_MLREassignment
-
-Cliff.ai Machine Learning Research Engineer Assignment <br>
-Bhavesh Uppaluri (ubhavesh2908@gmail.com) <br>
-Applied for – ML Intern
+# N-BEATS + RevIN implementation for uni-variate Time Series data
 
 <br>A uni-variate forecasting framework using N-BEATS and RevIN implemented in PyTorch
+
+N-BEATS model is one of the latest neural networks developed with a focus on univariate times series point forecasting problem.<br>
+RevIN is a normalization method which addresses the distribution shift problem in time series data when working on such data through neural networks.<br>
 
 RevIN normalizing-denormalizing function is implemented using official PyTorch implementation of RevIN (https://github.com/ts-kim/RevIN). <br>
 Which takes Torch.tensor input and return normalized/denormalized Torch.tensor output
