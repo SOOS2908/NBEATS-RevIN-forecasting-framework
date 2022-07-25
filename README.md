@@ -2,6 +2,10 @@
 
 <br>A uni-variate forecasting framework using N-BEATS and RevIN implemented in PyTorch
 
+N-BEATS paper - https://arxiv.org/pdf/1905.10437.pdf
+<br>RevIN paper - https://openreview.net/pdf?id=cGDAkQo1C0p
+
+
 N-BEATS model is one of the latest neural networks developed with a focus on univariate times series point forecasting problem.<br>
 RevIN is a normalization method which addresses the distribution shift problem in time series data when working on such data through neural networks.<br>
 
